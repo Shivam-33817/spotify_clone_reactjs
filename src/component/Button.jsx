@@ -2,20 +2,7 @@ function  Button(){
 
 return(
     <div>
-    <button style={{marginLeft:'1110px',
-        marginTop:'10px',
-        border: '10px solid white',
-        borderRadius:'20px',
-        fontSize:'15px',
-        backgroundColor:'white',
-        fontWeight:'bold',
-        
-    }}
-    >Explore preminum</button>
-
-
-
-
+      <button className="bg-white  font-bold p-2 rounded-full shadow-lg transition-all duration-200 hover:scale-105 hover:bg-[#1db954] active:scale-95 ml-28 cursor-pointer">Explore Premium</button>
 
 
     </div>
